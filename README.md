@@ -15,6 +15,8 @@
 <a href="https://www.learn-c.org/de/" target="_blank"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" align="left" alt="git" height='42px'/>
+
+<img src="https://icons.iconarchive.com/icons/bokehlicia/pacifica/256/nvidia-settings-icon.png" align="left" alt="git" height='42px'/>
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 
 <br>
