@@ -12,6 +12,14 @@
 
 <br>
 <br>
+
+### 💹 Github Stats
+
+<div>
+  <a href="https://github.com/Moritz-bit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moritz-bit&count_private=false&theme=prussian&show_icons=true"/>
+</div>
+    
 <!--
 **Moritz-bit/Moritz-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
