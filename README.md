@@ -17,9 +17,6 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 
 <br>
-<td>Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="100" title="Linux"><br>950 bytes</td>
-
-<br>
 <br>
 
 ### 💹 Github Stats
