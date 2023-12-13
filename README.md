@@ -1,10 +1,8 @@
 ### Hi there 👋
-<br>
 
 ### 💻 What I'm currently working on:
 - Python-Django friends project
 - C++ .Net Calculator App
-<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://code.visualstudio.com/" target="_blank"> 
@@ -30,6 +28,7 @@
 <img src="https://icons.iconarchive.com/icons/bokehlicia/pacifica/256/nvidia-settings-icon.png" align="left" alt="git" height='42px'/> </a>
 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<br>
 <br>
 
 ### 💹 Github Stats
