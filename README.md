@@ -10,6 +10,7 @@
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" align="left" alt="git" height='42px'/> </a>
+<td>Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="100" title="Linux"><br>950 bytes</td>
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/arch_linux.svg" width="100" title="Arch Linux"></a>
 <td>Arch Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/arch_linux.svg" width="100" title="Arch Linux"><br>310 bytes</td>
