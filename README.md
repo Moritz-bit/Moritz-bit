@@ -26,6 +26,8 @@
   <a href="https://github.com/Moritz-bit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moritz-bit&count_private=true&theme=prussian&show_icons=true"/>
 </div>
+
+[![Mo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moritz-bit&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
     
 <!--
 **Moritz-bit/Moritz-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
