@@ -24,7 +24,7 @@
 
 <div>
   <a href="https://github.com/Moritz-bit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moritz-bit&count_private=false&theme=prussian&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moritz-bit&count_private=true&theme=prussian&show_icons=true"/>
 </div>
     
 <!--
