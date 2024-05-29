@@ -3,7 +3,7 @@
 ### 💻 What I'm currently working on:
 - a website I'm building for a friend www.salonbb.de
 - Python-Django friends project
-- C++ .Net Calculator App
+- C# .Net Calculator App
 
 ### :wrench: Languages and Tools:
 <a href="https://code.visualstudio.com/" target="_blank"> 
